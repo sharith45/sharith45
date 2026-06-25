@@ -42,10 +42,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharith45&layout=compact&text_color=daf7dc&bg_color=151515&theme=dark" alt="Lenguajes más usados de sharith45" />
 </p>
 
-### 🛠️ Proyectos Destacados:
+### 🛠️ Proyecto Destacado:
 <p align="center">
-  <a href="https://github.com/sharith45/IA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharith45&repo=IA&show_owner=true&theme=highcontrast" alt="Proyecto IA" />
+  <a href="https://github.com/sharith45/atlas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharith45&repo=atlas&show_owner=true&theme=highcontrast" alt="Proyecto Atlas" />
   </a>
 </p>
 
