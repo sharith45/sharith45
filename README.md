@@ -35,13 +35,6 @@
 </p>
 
 ---
-### 🐱 Mis Estadísticas de GitHub:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharith45&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515" alt="Estadísticas de sharith45" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharith45&layout=compact&text_color=daf7dc&bg_color=151515&theme=dark" alt="Lenguajes más usados de sharith45" />
-</p>
-
 ### 🛠️ Proyecto Destacado:
 <p align="center">
   <a href="https://github.com/sharith45/atlas-Assistant">
