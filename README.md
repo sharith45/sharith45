@@ -44,8 +44,8 @@
 
 ### 🛠️ Proyecto Destacado:
 <p align="center">
-  <a href="https://github.com/sharith45/atlas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharith45&repo=atlas&show_owner=true&theme=highcontrast" alt="Proyecto Atlas" />
+  <a href="https://github.com/sharith45/atlas-Assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharith45&repo=atlas-Assistant&show_owner=true&theme=highcontrast" alt="Proyecto Atlas-Assistant" />
   </a>
 </p>
 
